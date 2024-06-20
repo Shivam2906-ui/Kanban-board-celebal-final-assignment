@@ -1,4 +1,4 @@
-# Kanban Board App with React.js
+# Kanban Board webApp with React.js
 
 This project is a simple Kanban board application built using React.js. Kanban boards are an effective way to manage and visualize tasks in a workflow, making it easy to track progress and collaborate with a team.
 
